@@ -27,7 +27,7 @@ function AddProductForm({ addProduct }) { /* includes all information  to create
 
   return (
     <div> {}
-      <h2>Add a New Product</h2>
+      <h2>Add new product</h2>
       <form onSubmit={handleSubmit}>
         <div>
             <label>
